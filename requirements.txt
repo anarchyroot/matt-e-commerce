@@ -22,7 +22,7 @@ Jinja2==2.9.6
 jsonfield==2.0.2
 MarkupSafe==1.0
 olefile==0.44
-Pillow==4.2.1
+Pillow==8.2.0
 pycurl==7.43.0
 pymongo==3.4.0
 python-apt==1.1.0b1
